@@ -9,7 +9,7 @@ Currently working on my new personal website, built with the new Analog meta-fra
 
 - [LinkedIn](https://www.linkedin.com/in/mitchsmoot/)
 - [Twitter](https://twitter.com/MitchSmoot)
-- Personal website: Coming late june
+- Personal website: Coming in July
 
 Feel free to message me any time if you have any questions about me or my code.
 
