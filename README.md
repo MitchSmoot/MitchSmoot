@@ -5,7 +5,7 @@ Currently working on my new personal website, built with the new Analog meta-fra
 - 2019-2021: Software Engineer (Angular) at Telenotes
 - 2017-2018: Learned coding at Bottega Tech. Ruby on Rails, and some Angular
 
-### Amout Me
+### About Me
 
 Competitive puzzle solver, Qualified for and competed at the CubingUSA National Championship in 2018 and 2019.
 Two bronze medals solving the Megaminx puzzle in Utah speedcubing competitions
