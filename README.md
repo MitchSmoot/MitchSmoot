@@ -1,5 +1,6 @@
 Currently working on my new personal website, built with the new Analog meta-framework for Angular. 
 
+- Dec 2023: Taking the plunge into full-time freelance coding
 - 2023: Working full time (non-coding), spending all of my free time coding or exploring caves
 - 2022: Tech layoff apocalypse
 - 2019-2021: Software Engineer (Angular) at Telenotes
@@ -30,3 +31,5 @@ Feel free to message me any time if you have any questions about me or my code.
 ### Available For Hire or Freelance Work
 
 Looking to be hired in a full-time developer position. In the meantime, I'm available for freelance work! Willing to take on projects at an extremely competitive rate.
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mitchsmoot&layout=compact&langs_count=8)
